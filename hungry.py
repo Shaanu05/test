@@ -6,3 +6,5 @@ else:
     print("do your homework")
 
 print("I am hungry but not hungry")
+print("something else")
+
